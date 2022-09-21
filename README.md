@@ -30,7 +30,81 @@
 
 
 
-## Experiment 3
-[EX 3 worksheet](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-3%2C4.txt)
+## Experiment-3&4
+[EX 3&4 worksheet](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-3%2C4.txt)
 
-##
+![image](https://user-images.githubusercontent.com/113408308/191542737-9ac56572-5a14-40c0-9271-fda0d6e88461.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191542789-606a30b9-f755-4e82-8334-427546b598db.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191542852-a27942fc-2a85-4f9c-8368-47ca2849c90b.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191542976-046d2e6a-7171-488e-98f8-abb5866881f8.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191543059-a558f6cb-7f50-49a7-8df7-c234bb02ba49.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191543111-000d0a28-2c78-4252-b471-04893300c8c9.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191543182-4e1647e3-f1d6-4f82-b5cd-70ae20a3b999.png)
+
+## EXPERIMENT-5
+[EX_5 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-5.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191544056-f85251ba-de1a-4aec-9297-1a548fd0bd2d.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544114-d6433f4b-763a-4ac3-8429-d9d8b2866864.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544180-2f8a964b-20e5-4011-b965-2a8cea733be9.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544263-51a1f89b-6b79-40f7-aeca-e766d2ada8d4.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544389-799c1e40-5c29-4949-b90f-858c171fc427.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544479-f449ed82-6fad-49f9-8362-10fd63c805dc.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544547-044501ba-b658-4cb5-8260-5fef7d162069.png)
+
+## EXPERIMENT-6
+[EX_6 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%20-6.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191544844-9c8986fb-8493-4efd-87b6-85ec8083ffb2.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544907-2b7c05b1-2382-40d6-b6be-51a516e2f77f.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191544953-c92a7ccf-c284-49c9-9da8-41c51aaa7e60.png)
+
+## EXPERIMENT-7
+[EX_7 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-7.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191545197-8bd3f45b-e2f7-4e3d-a9cb-2cad14cd52a4.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191545274-6664551d-c97c-4656-b815-46967a4a530f.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191545350-fa075b04-c70e-4823-b702-5b08e835ec50.png)
+
+## EXPERIMENT-8
+[EX_8 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%20-8.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191545672-de78c562-8a9d-4485-bfc7-337cad7811db.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191545758-63762e84-1678-45e6-bd42-265c1643a75e.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191545809-f808a163-e4e6-4190-b644-537b22c121c7.png)
+
+## EXPERIMENT-9
+[EX_9 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-9.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191546069-92df0561-59ec-409f-97e5-b954b9a5f914.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191546143-6f7e5339-3232-4afa-bb72-dc227092b511.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191546216-e2b59406-b63e-45d6-922f-5c0268c06ed9.png)
+
+## EXPERIMENT-10
+[EX_10 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-10.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191546503-bf538d95-1936-4330-8d95-2fc8d6055bf5.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191546581-72fe4777-7d83-40a9-8099-ca3098bf836f.png)
+
+

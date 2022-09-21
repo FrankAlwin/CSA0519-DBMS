@@ -17,6 +17,19 @@
 ## Experiment 2
 [EX2 worksheet](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experimentt%202.txt)
 
+[output](![image](https://user-images.githubusercontent.com/113408308/191481787-cdfc99d7-a2ac-48d4-b921-12aade9e4cfd.png)
+
+
+[output](![image](https://user-images.githubusercontent.com/113408308/191481602-41112ded-2ed8-41ee-807e-28fe1a9e81b8.png)
+
+[output](![image](https://user-images.githubusercontent.com/113408308/191481906-75a0630f-2424-4662-a5af-33a389122aad.png)
+
+[output](![image](https://user-images.githubusercontent.com/113408308/191482074-0c3d0e62-b86c-45da-b53b-58449c60fbac.png)
+
+
+
+
+
 ## Experiment 3
 [EX 3 worksheet](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-3%2C4.txt)
 

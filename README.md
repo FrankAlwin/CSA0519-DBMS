@@ -107,4 +107,39 @@
 
 ![image](https://user-images.githubusercontent.com/113408308/191546581-72fe4777-7d83-40a9-8099-ca3098bf836f.png)
 
+## EXPERIMENT-11
+[EX_11 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%2011.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191657977-9e736141-5401-4919-8c6c-b266730a2b7c.png)
+
+![image](https://user-images.githubusercontent.com/113408308/191657996-110f4517-2fca-43bc-bdbe-5c54e8aa9de7.png)
+
+## EXPERIMENT-12
+
+[EX_12 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%2012.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191658115-f6292cf5-725f-46ce-8114-addeb43c22fd.png)
+
+## EXPERIMENT-13
+
+[EX_13 WORKSHEEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%20-13.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191658208-ce12244a-3d00-43cc-a072-7fa168fcbf7b.png)
+
+## EXPERIMENT-14
+
+[EX_14 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%2014.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191658293-0ca86e79-988c-4914-bfd7-51563d180496.png)
+
+## EXPERIMENT-15
+
+[EX_15 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-15.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191658386-9d47151d-1598-4e87-9cae-e518ab569245.png)
+
+## EXPERIMENT-16
+
+[EX_16 WORKSHEET]()
+
 

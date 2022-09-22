@@ -120,6 +120,9 @@
 
 ![image](https://user-images.githubusercontent.com/113408308/191658115-f6292cf5-725f-46ce-8114-addeb43c22fd.png)
 
+![image](https://user-images.githubusercontent.com/113408308/191658791-fc544588-e2fc-47a9-9d65-ab7ed672f6f6.png)
+
+
 ## EXPERIMENT-13
 
 [EX_13 WORKSHEEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%20-13.txt)

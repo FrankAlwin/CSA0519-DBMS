@@ -1,0 +1,34 @@
+mysql> insert into class values("dj",5);
+Query OK, 1 row affected (0.02 sec)
+
+mysql> commit;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> update class set name="bravo" where id="5";
+Query OK, 1 row affected (0.03 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> savepoint a;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> insert into class values("uppal",6);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> savepoint b;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> insert into class values("balu",7);
+Query OK, 1 row affected (0.02 sec)
+
+mysql> savepoint c;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> select *from class;
++-------+------+
+| name  | id   |
++-------+------+
+| bravo |    5 |
+| uppal |    6 |
+| balu  |    7 |
++-------+------+
+3 rows in set (0.00 sec)

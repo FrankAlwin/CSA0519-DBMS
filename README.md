@@ -161,4 +161,16 @@
 
 ## EXPERIMENT-19
 
-[EX_19 WORKSHEET]()
+[EX_19 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-19.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191777459-e704eae8-00b3-4687-bc5d-0ebba6e6fdb7.png)
+
+## EXPERIMENT-20
+
+[EX_20 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-20.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191778210-5cec9bc9-4bfd-4764-b458-93702f4bcf65.png)
+
+## EXPERIMENT-21
+
+[EX_21 WORKSHEET]()

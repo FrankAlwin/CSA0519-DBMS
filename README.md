@@ -118,7 +118,7 @@
 
 [EX_12 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment%2012.txt)
 
-![image](https://user-images.githubusercontent.com/113408308/191658115-f6292cf5-725f-46ce-8114-addeb43c22fd.png)
+![image](https://user-images.githubusercontent.com/113408308/191658875-24205305-2d4d-4b95-b216-4a2562556af6.png)
 
 ![image](https://user-images.githubusercontent.com/113408308/191658791-fc544588-e2fc-47a9-9d65-ab7ed672f6f6.png)
 
